@@ -15,7 +15,7 @@ function navegacionFija() {
        )
 
     // elemento a observar
-    observer.observe(document.querySelector(".sobre-festival"));
+    observer.observe(document.querySelector(".video"));
 };
 
 function scrollNav() {  // funcion para hacer scroll en los enlaces dentro de la pagina
